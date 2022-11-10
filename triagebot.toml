@@ -13,3 +13,5 @@ label = "help wanted"
 
 [mentions."/"]
 cc = ["@mcass19"]
+
+[decision]
